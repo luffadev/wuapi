@@ -6,4 +6,6 @@
 ## cd wuapi
 ## npm install
 ## npm start
+## open browser type http://localhost:3000
+
 
