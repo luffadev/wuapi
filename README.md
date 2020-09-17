@@ -8,4 +8,11 @@
 ## npm start
 ## open browser type http://localhost:3000
 
+## npm install --save sequelize
+## npm install --save-dev sequelize-cli
+
+
+## npx sequelize-cli init
+## npm install --save-dev nodemon
+
 
