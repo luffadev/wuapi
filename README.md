@@ -16,6 +16,8 @@
 ## npm install --save-dev nodemon
 
 
+## npm install --save mysql2
+
 ```
 {
     "title": "C# เล่ม2",
