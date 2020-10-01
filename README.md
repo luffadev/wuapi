@@ -16,3 +16,13 @@
 ## npm install --save-dev nodemon
 
 
+```
+{
+    "title": "C# เล่ม2",
+    "auth": "สุรเดช เพชรานนท์",
+    "isbnissn": "9780749874758",
+    "publisher": "จุฬาบุ๊ค",
+    "edition": "พิมพ์ครั้งที่ 1",
+    "pubyear": "2552"
+}
+```
