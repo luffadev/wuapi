@@ -1,4 +1,4 @@
-# ส่ง Source Code ได้ที่
+# ส่ง Source Code ได้ที่ สิ้นสุดการรับวันที่ 3 ตุลาคม 2563 8.30
 ## https://forms.gle/Brmgt4UEUACSE1wG6
 
 # wuapi
