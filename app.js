@@ -4,9 +4,11 @@ var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 
+//ส่วนที่ต้องแก้ไข
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 const booksRouter = require('./routes/books');
+const apiRouter = require('./routes/api');
 
 var app = express();
 
@@ -20,9 +22,11 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
+//ส่วนที่ต้องแก้ไข
 app.use('/', indexRouter);
 //app.use('/users', usersRouter);
 app.use('/books', booksRouter);
+app.use('/api', apiRouter);
 
 
 // catch 404 and forward to error handler
