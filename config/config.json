@@ -2,7 +2,7 @@
   "development": {
     "username": "root",
     "password": "me12345678",
-    "database": "wuapi",
+    "database": "demodb",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
